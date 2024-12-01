@@ -1,4 +1,4 @@
 # sample
 Hello World 
 
-Master=Bruce
+Master=Bruce<br>Today is wonderful
